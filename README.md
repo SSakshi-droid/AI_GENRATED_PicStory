@@ -1,4 +1,4 @@
-#**AI Generated PicStory** - 
+# AI Generated PicStory - 
 AI-Powered PicStory transforms images, videos, and voice inputs into engaging, multilingual narrated visual stories using AI-driven media analysis and speech synthesis
 
 

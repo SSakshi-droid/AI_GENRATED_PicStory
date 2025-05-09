@@ -2,7 +2,8 @@
 
 AI-Powered PicStory transforms images, videos, and voice inputs into engaging, multilingual narrated visual stories using AI-driven media analysis and speech synthesis.
 
-![image](https://github.com/user-attachments/assets/31969d40-3555-4d76-b45b-269ddc727e4d)
+![image](https://github.com/user-attachments/assets/30f15f4b-0f84-421e-a411-0391ce983c07)
+
 
 
 First, you need to register before logging in.
@@ -13,7 +14,8 @@ First, you need to register before logging in.
 
 ● Then click the "Register" button to register yourself
 
-![image](https://github.com/user-attachments/assets/1348aedf-4610-452e-9989-ae9f06dbc828)
+![image](https://github.com/user-attachments/assets/65eaad86-ecd7-484b-824e-26546c06f7d3)
+
 
 
 
@@ -25,7 +27,8 @@ After successful registration, proceed to login.
 
 ● Click "Login" to access your account.
 
-![image](https://github.com/user-attachments/assets/4f9b0cec-4148-4208-b220-6f40f8be2f25)
+![image](https://github.com/user-attachments/assets/e02a4731-b8df-4ae7-bbc3-bb5ad5faf651)
+
 
 
 Steps to generate a story using images and videos: 
@@ -78,7 +81,8 @@ Steps to generate a story using images and videos:
 
 
 
-![image](https://github.com/user-attachments/assets/2e823139-afa9-4145-97c3-18c313c64f4d)
+![image](https://github.com/user-attachments/assets/295ea3c6-32fc-45db-b3dc-4fb206653d0b)
+
 
 
 ● User can log out anytime if he wants to quit or stop the process.
